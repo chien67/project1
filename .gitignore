@@ -13,3 +13,4 @@ lib/
 log/
 bin/
 obj/
+.vs
