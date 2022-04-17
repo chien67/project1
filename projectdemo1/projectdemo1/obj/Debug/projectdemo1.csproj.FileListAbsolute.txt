@@ -1,0 +1,10 @@
+D:\BTLDemo\project1\projectdemo1\projectdemo1\bin\Debug\projectdemo1.exe.config
+D:\BTLDemo\project1\projectdemo1\projectdemo1\bin\Debug\projectdemo1.exe
+D:\BTLDemo\project1\projectdemo1\projectdemo1\bin\Debug\projectdemo1.pdb
+D:\BTLDemo\project1\projectdemo1\projectdemo1\obj\Debug\projectdemo1.csproj.AssemblyReference.cache
+D:\BTLDemo\project1\projectdemo1\projectdemo1\obj\Debug\projectdemo1.csproj.SuggestedBindingRedirects.cache
+D:\BTLDemo\project1\projectdemo1\projectdemo1\obj\Debug\projectdemo1.Properties.Resources.resources
+D:\BTLDemo\project1\projectdemo1\projectdemo1\obj\Debug\projectdemo1.csproj.GenerateResource.cache
+D:\BTLDemo\project1\projectdemo1\projectdemo1\obj\Debug\projectdemo1.csproj.CoreCompileInputs.cache
+D:\BTLDemo\project1\projectdemo1\projectdemo1\obj\Debug\projectdemo1.exe
+D:\BTLDemo\project1\projectdemo1\projectdemo1\obj\Debug\projectdemo1.pdb
