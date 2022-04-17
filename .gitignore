@@ -11,3 +11,6 @@ cms.egg-info
 cache/
 lib/
 log/
+bin/
+obj/
+.vs
